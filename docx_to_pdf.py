@@ -1,4 +1,3 @@
-# http://code.activestate.com/recipes/578858-convert-doc-and-docx-files-to-pdf/
 # Convert doc and docx files to pdf (Python recipe)
 
 from os import chdir, getcwd, listdir, path
