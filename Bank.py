@@ -1,8 +1,9 @@
 
 # coding: utf-8
+#Analyzing bank data and finding some insights and relationships amoung various attribues.
+#Using python3x and jupyter notebook.
 
 # In[1]:
-
 
 import pandas as pd
 import numpy as np
